@@ -1,0 +1,25 @@
+{
+  "techLegend": {
+    "1": {
+      "name": "Dominant Hand Apple Watch",
+      "icon": "applewatch.side.right"
+    }
+  },
+  "gestures": [
+    { "id": "DA",      "name_bg": "Да",      "tech": 1 },
+    { "id": "NE",      "name_bg": "Не",      "tech": 1 },
+    { "id": "SPRI",    "name_bg": "Спри",    "tech": 1 },
+    { "id": "IDVAM",   "name_bg": "Идвам",   "tech": 1 },
+    { "id": "OTIVAM",  "name_bg": "Отивам",  "tech": 1 },
+    { "id": "GOLYAM",  "name_bg": "Голям",   "tech": 1 },
+    { "id": "MALAK",   "name_bg": "Малък",   "tech": 1 },
+    { "id": "DAI",     "name_bg": "Дай",     "tech": 1 },
+    { "id": "POKAZHI", "name_bg": "Покажи",  "tech": 1 },
+    { "id": "HODI",    "name_bg": "Ходи",    "tech": 1 },
+    { "id": "BARZO",   "name_bg": "Бързо",   "tech": 1 },
+    { "id": "BAVNO",   "name_bg": "Бавно",   "tech": 1 },
+    { "id": "PROBLEM", "name_bg": "Проблем", "tech": 1 },
+    { "id": "DOMA",    "name_bg": "Дома",    "tech": 1 },
+    { "id": "RABOTA",  "name_bg": "Работа",  "tech": 1 }
+  ]
+}
